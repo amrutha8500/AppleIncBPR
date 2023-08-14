@@ -15,7 +15,7 @@ Apple Inc., known for its revolutionary products and services, is continually ev
 
 ## Getting Started
 
-1. **Clone this Repository**: `git clone `
+1. **Clone this Repository**: `git clone https://github.com/amrutha8500/AppleIncBPR.git`
 2. Navigate to the cloned directory.
 3. Open the respective PDF files to view the presentation and report.
 
