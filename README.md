@@ -27,4 +27,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 - Special thanks to Apple Inc. for being a beacon of innovation and inspiration.
 - Gratitude to our professors and mentors for their guidance and expertise.
+  
+<img width="760" alt="Screen Shot 2022-09-20 at 5 04 42 PM" src="https://github.com/amrutha8500/AppleIncBPR/assets/61263345/9ab7b560-12bf-4735-afba-f9c9731fb4f3">
 
